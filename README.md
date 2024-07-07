@@ -1,4 +1,4 @@
-Strona główna na której nic nie ma. (oprócz readme) </br>
+Strona główna na której nie ma nic ciekawego. (oprócz readme) </br>
 W folderach znajdują się zadania. </br>
 Po wybraniu odpowiedniego branch również ukażą się zadania z ćwiczeń. </br>
 Folder/Branch: </br>
